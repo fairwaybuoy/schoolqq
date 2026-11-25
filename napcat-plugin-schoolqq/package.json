@@ -1,0 +1,13 @@
+{
+  "name": "napcat-plugin-schoolqq",
+  "plugin": "班讯 · 核对与日程",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.mjs",
+  "description": "在 NapCat WebUI 中打开本机班讯核对与日程页面",
+  "author": "schoolqq",
+  "napcat": {
+    "tags": ["工具", "日程"],
+    "minVersion": "4.14.0"
+  }
+}

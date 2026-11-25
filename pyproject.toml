@@ -1,0 +1,17 @@
+[project]
+name = "qq-class-schedule"
+version = "0.1.0"
+description = "个人 QQ 班级通知日程助手"
+requires-python = ">=3.12"
+dependencies = [
+ "nonebot2[fastapi]==2.4.3", "nonebot-adapter-onebot==2.4.6",
+ "fastapi==0.116.1", "uvicorn[standard]==0.35.0", "pydantic-settings==2.10.1",
+ "httpx==0.28.1", "icalendar==6.3.1", "python-multipart==0.0.20",
+ "pillow==11.3.0", "pytesseract==0.3.13"
+]
+[dependency-groups]
+dev = ["pytest==8.4.1", "pytest-asyncio==1.1.0"]
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+[tool.uv]
+package = false

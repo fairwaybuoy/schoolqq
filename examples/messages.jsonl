@@ -1,0 +1,6 @@
+{"account_id": "demo", "group_id": "demo-class", "group_name": "模拟班级群", "message_id": "demo-chat", "sent_at": "2026-10-12T09:00:00+08:00", "source": "demo", "text": "今天食堂的面条不错"}
+{"account_id": "demo", "group_id": "demo-class", "group_name": "模拟班级群", "message_id": "demo-business", "sent_at": "2026-10-12T10:00:00+08:00", "source": "demo", "text": "商赛 10 月 18 日 18:00 截止报名，10 月 25 日 14:00 比赛。对象：全体本科生；主办：模拟商学院；地点：模拟报告厅；报名方式：https://example.com/signup"}
+{"account_id": "demo", "group_id": "demo-class", "group_name": "模拟班级群", "message_id": "demo-extension", "sent_at": "2026-10-15T09:00:00+08:00", "source": "demo", "text": "该商赛报名延至 10 月 20 日 18:00"}
+{"account_id": "demo", "group_id": "demo-class", "group_name": "模拟班级群", "message_id": "demo-talk", "sent_at": "2026-10-12T11:00:00+08:00", "source": "demo", "text": "校园讲座 2026年10月21日 19:00 举行。地点：模拟图书馆"}
+{"account_id": "demo", "group_id": "demo-class", "group_name": "模拟班级群", "message_id": "demo-unknown", "sent_at": "2026-10-12T12:00:00+08:00", "source": "demo", "text": "创新比赛 报名日期尚未确定，25 日比赛。对象：大一学生"}
+{"account_id": "demo", "group_id": "demo-class", "group_name": "模拟班级群", "message_id": "demo-volunteer", "sent_at": "2026-10-12T13:00:00+08:00", "source": "demo", "text": "志愿活动 明天截止报名，2026年10月17日 09:00 活动。地点：模拟社区；费用：免费"}

@@ -1,0 +1,21 @@
+[
+  {
+    "account_id": "local", "group_id": "demo-class", "message_id": "reply-demo",
+    "sent_at": "2026-10-15T09:00:00+08:00", "source": "import",
+    "text": "该商赛报名延至 10 月 20 日 18:00", "reply_to": "demo-business",
+    "reply_text": null,
+    "segments": [{"type": "reply", "data": {"id": "demo-business"}}]
+  },
+  {
+    "account_id": "local", "group_id": "demo-class", "message_id": "forward-demo",
+    "sent_at": "2026-10-12T10:00:00+08:00", "source": "import", "text": "",
+    "segments": [{"type": "forward", "data": {"nodes": [
+      {"content": [{"type": "text", "data": {"text": "科技比赛 2026年10月18日 18:00 截止报名"}}]}
+    ]}}]
+  },
+  {
+    "account_id": "local", "group_id": "demo-class", "message_id": "missing-image-demo",
+    "sent_at": "2026-10-12T10:00:00+08:00", "source": "import", "text": "",
+    "segments": [{"type": "image", "data": {"url": "https://example.com/notice.png"}}]
+  }
+]

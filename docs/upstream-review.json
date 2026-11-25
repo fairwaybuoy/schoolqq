@@ -1,0 +1,22 @@
+{
+  "NapCatQQ": {
+    "reviewed_commit": "3f66b369017cf1e202583257baa0c19406cd186c",
+    "recent": "3f66b369017cf1e202583257baa0c19406cd186c 2026-10-12 fix(album): restore comments and support batch targets\nbbd0d2aca3d470c20b33b1d4f95123335633bf26 2026-10-12 fix(message): 修复合并转发中动画表情吞掉后续消息段 (#2097)\n7471e3ecd648189a9e80530b00348a17a4528906 2026-10-11 feat: 支持 macOS 设备 GUID 管理与修正 Linux global 路径 (#2099)"
+  },
+  "nonebot2": {
+    "reviewed_commit": "e363ec9bf77b263c62dc252def22aa2f746ba6d0",
+    "recent": "e363ec9bf77b263c62dc252def22aa2f746ba6d0 2026-10-12 :memo: Update changelog\n6fb2547eeea1fd6f12fedba5e898e4a77983280c 2026-10-12 :beers: publish plugin Xbox 状态 (#4208)\nb20eafd37b6341e16b19bcb90a4f3baec54f9a7f 2026-10-09 :memo: Update changelog"
+  },
+  "adapter-onebot": {
+    "reviewed_commit": "2f5930d4f6c7fb3a82cf3201639e8f0b0a6c124e",
+    "recent": "2f5930d4f6c7fb3a82cf3201639e8f0b0a6c124e 2026-10-09 :arrow_up: auto update by pre-commit hooks (#162)\n58bb4874768bad06ba5a60baa4357e6d8a21ce49 2026-09-11 :arrow_up: auto update by pre-commit hooks (#161)\n3ac943fc4470d851219f368cacadf3dcdd649ee7 2026-08-04 :arrow_up: auto update by pre-commit hooks (#160)"
+  },
+  "qqbot": {
+    "reviewed_commit": "272601191674f5507b2520d80f7a7f700789df25",
+    "recent": "272601191674f5507b2520d80f7a7f700789df25 2026-09-28 docs: 补充使用边界与免责声明 (#2)\nd9489fac064964e153912c38381fe4fe6860d066 2026-09-07 Merge pull request #1 from YouRen1320/codex/qqbot-ci-safety-tests\n55c66339f45ae61fd53ff173e4e01f56cb749132 2026-09-07 升级 CI Actions 运行时"
+  },
+  "fullcalendar": {
+    "reviewed_commit": "786d1b27673deef84bc550f936f61b4d4a03a7a0",
+    "recent": "786d1b27673deef84bc550f936f61b4d4a03a7a0 2026-10-05 meta:update\n64da147d3aa1967929f4485f9b79657daa43f85e 2026-10-05 git subrepo pull (merge) standard\n25821787f840441ffb2112fe3da6330dbf0b6e57 2026-10-05 Bump"
+  }
+}
